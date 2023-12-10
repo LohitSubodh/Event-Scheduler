@@ -14,9 +14,10 @@ This project is a Spring Boot application that provides a RESTful API for schedu
 - Docker
 
 ## Setup
-1. Clone the repository
-2. Navigate to the project directory
-3. Build and run the spring boot application. `mvn clean install` and then `mvn spring-boot:run`
+1. Start Docker Desktop. 
+2. Clone the repository
+3. Navigate to the project directory
+4. Build and run the spring boot application. `mvn clean install` and then `mvn spring-boot:run`
    
 
 ## API Endpoints
