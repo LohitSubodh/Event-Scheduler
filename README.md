@@ -61,7 +61,27 @@ Base url : `http://localhost:8080`
   "endTime": "2023-12-10T17:00:00"
 }
 ```
+## Reasoning
 
+### SpringBoot 
+It offers a vast ecosystem, including Spring Data JPA for database interactions.
+
+### PostgreSQL
+open-source relational database that supports complex queries and transactions.
+
+### Docker
+allows for easy setup and deployment of the application and its dependencies, ensuring consistency across different environments.
+
+### RestAPIs
+enables easy integration with various clients, including web and mobile applications, and follows stateless client-server architecture principles.
+
+## Future  Improvements
+
+* Notifications and Reminders
+* Time Zone Support
+* Recurring Events
+* Event invitations
+* User Authentication and Authorization
 ## Testing
 You can test the API endpoints using tools like Postman or cURL.
 ### Reference Documentation
